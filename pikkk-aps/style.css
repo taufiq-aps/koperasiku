@@ -1,0 +1,91 @@
+#peta{
+  position: relative;
+  padding-bottom: 50%;
+  background: blueviolet;
+}
+#peta iframe{
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position:absolute;
+
+}
+#tabkontak .icon {
+  text-align: center;
+  padding: 5px;
+
+}
+#tabkontak .content {
+  text-align: left;
+}
+.carousel-item img{
+  width: 200px;
+  height: 200px;
+}
+.carousel-item {
+  text-align: center;
+  
+}
+.bintang {
+  color: gold;
+  font-size: 2rem;
+}
+
+.jasa{
+  padding: 50px;
+  color: #202c2d;
+background: #cce7e8;
+}
+.ket{
+  padding: 50px;
+  color: #202c2d;
+background: #FFFFFF;
+}
+.monyet {
+  color: #444444;
+
+}
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+.ket {
+  background: #cce7e8;
+}
+.copy{
+  background: #cce7e8;
+}
+#bt-up{
+  position: fixed;
+  x-index: 99;
+  right: 10px;
+  bottom: 10px;
+}
+#bt-up a{
+  font-size: 2rem;
+  text-decoration: none;
+  color: grey;
+  opacity: 0.2;
+}
+#bt-up a:hover{
+  opacity: 1;
+}
+.card{
+  margin: 20px;
+  transform: translateY(10px);
+}
+.ttt{
+  background: #cce7e8;
+}
+.wa{
+  width: 100px;
+  height: 150px;
+}
+.carousel-inner{
+  padding: 50px;
+}
+.video{
+  margin: 20px;
+}
+
